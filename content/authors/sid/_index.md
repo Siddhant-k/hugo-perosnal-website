@@ -44,7 +44,7 @@ social:
   link: https://linkedin.com/in/siddhant-k
 - icon: cv
   icon_pack: ai
-  link: /Resume.pdf
+  link: /files/Resume.pdf
 - icon: envelope
   icon_pack: fas
   link: 'mailto:sid@siddhantkhera.com'  # For a direct email link, use "mailto:test@example.org".
