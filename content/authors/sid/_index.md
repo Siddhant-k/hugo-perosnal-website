@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: B.Sc in Electrical Engineering Graduate
+role: B.Sc in Electrical Engineering
 
 # Organizations/Affiliations
 organizations:
