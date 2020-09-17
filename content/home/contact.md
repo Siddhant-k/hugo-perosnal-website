@@ -5,20 +5,16 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
-title = "Contact"
-subtitle = ""
+title = "Get in touch!"
+subtitle = "Feel free to contact me :)"
 
 # Automatically link email and phone?
 autolink = true
 
 # Email form provider
 #   0: Disable email form
-#   1: Netlify (requires that the site is hosted by Netlify)
+ #  1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form = 2
-
-# Netlify form settings.
-[netlify]
-  captcha = false  # Enable CAPTCHA challenge to reduce spam?
+email_form = 1
 +++
 
