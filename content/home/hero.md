@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "`Hello, World!`"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "desert.jpg"
+# hero_media = "desert.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
