@@ -3,10 +3,10 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 65  # Order that this section will appear.
 
-title = "What I've done"
-subtitle = "(so far)"
+title = "Projects"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
@@ -21,21 +21,17 @@ subtitle = "(so far)"
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
-
-  [[content.filter_button]]
-    name = "Machine Learning"
-    tag = "Machine Learning"
-
-  [[content.filter_button]]
-    name = "Data Analysis"
-    tag = "Data Analysis"
+  # [[content.filter_button]]
+  #   name = "All"
+  #   tag = "*"
   
-  [[content.filter_button]]
-    name = "Software"
-    tag = "Software"
+  # [[content.filter_button]]
+  #   name = "Deep Learning"
+  #   tag = "Deep Learning"
+  
+  # [[content.filter_button]]
+  #   name = "Other"
+  #   tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -46,7 +42,7 @@ subtitle = "(so far)"
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 2
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -65,7 +61,7 @@ subtitle = "(so far)"
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image = "background.jpg"  # Name of image in `static/media/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
