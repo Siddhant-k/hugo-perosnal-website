@@ -20,7 +20,7 @@ image:
 projects: []
 
 ---
-**September 16, 2020**
+**September 22, 2020**
 
 I originally set up my website almost a year ago using a free template I obtained from [HTML5 Up](https://html5up.net "HTML5 Up") and I tweaked it quite substantially to suit my needs. It was also my first time buying a new domain and hosting it .
 
@@ -54,8 +54,6 @@ Over time, I set up another personal domain that I use to access my HomeLab and 
 
 By summer of 2020 (almost a year later), I knew it was time for an upgrade. While this solution was great, it was hard to upgrade and manage. I took down my original website and replaced with a Coming Soon page (this time using [Eventually](https://html5up.net/eventually) by [HTML5 Up](https://html5up.net/)).
 
-![](/uploads/old-website.png "Modified Eventually by HTML5 Up, right before moving on to Hugo!")
-
 With that up, I continued researching, this time with an expanded focus on Content Management System (CMS). I discovered [Hugo](https://gohugo.io) and I knew that that was it. Although it didn't have a direct CMS, I could write my content in [Markdown]() instead of in HTML, and that was a lot easier. It integrated with Netlify extremely well and Netlify could build my website using the _blueprint_ I provided_._
 
 With a similar arrangement as before, I now transitioned to using [Hugo]() paired with Netlify to build my website. Similar to before, I used [Github](https://github.com) (this time as a public repository) to store my content, [Hugo](https://gohugo.io) as a framework to build the website,  [Netlify](https://www.netlify.com) to run the builds, and [Cloudflare](https://cloudflare.com) to serve it. While I was at it, I also discovered [Forestry](https://forestry.io) – it basically delivers a CMS front to [Hugo](https://gohugo.io) websites. Upgrade complete.
@@ -66,6 +64,6 @@ Going the [Hugo](https://gohugo.io) route had a steep learning curve (again), sp
 >
 > \- **Ralph Waldo Emerson**
 
-This quote is 100% on point to how I feel. It wasn't just satisfying to completing my goals, but rather what I learnt throughout.
+This quote is 100\% on point to how I feel. It wasn't just satisfying to completing my goals, but rather what I learnt throughout.
 
 Thanks for getting this far and reading about my experience. Next stop: building an iOS app using Swift. 
