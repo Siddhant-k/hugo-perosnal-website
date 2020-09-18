@@ -69,13 +69,13 @@ user_groups:
 
 [Hello there](https://knowyourmeme.com/memes/hello-there)! I am **Sid**, an **Electrical Engineering B.Sc.** graduate from [**University at Buffalo**](https://www.seas.buffalo.edu) in New York, with a minor in **Mathematics**. I have since moved to [Toronto, Ontario 🇨🇦](https://www.toronto.ca) (It's a beautiful city!). I expect to get my [Engineer-in-Training](https://www.peo.on.ca/engineering-intern-program) license from [Professional Engineers Ontario](https://www.peo.on.ca) by October 2020.
 
+I am currently looking for tech jobs in the Greater Toronto Area 🇨🇦. My preferred fields are Engineering (Electrical & Software), Data Analytics or IT, but I am open to all exciting tech roles.  
+
 ## ABOUT ME
 I interned at a global-food company, **Rich Products**, where I was part of the **Optimization** team, and worked on **extracting savings within the production and the transportation network** using ETL tools.
 
 I also interned at **University at Buffalo Information Technology** where I was part of a team that **developed a fully customizable media room experience** with a pre-installed Crestron processor. **I led Linux programming, Raspberry Pi, Identification and Amazon Web Services (AWS)** piece of the project.
 
 I also worked at **University at Buffalo** separately for over 3 years as **Senior IT Supervisor** where **I independently managed the SQL dB and the application front-end to over 300 users, developed Excel macros to eliminate most repetitive tasks**, managed scripting & advanced functions of over 20 Google Sheets for employee management and record-keeping, and created & managed weekly work schedules of over 125 employees. **I also developed a new data analytics platform to analyze over 18 million print jobs per year and achieved 100% accuracy.**
-
-I am currently looking for tech jobs in the Greater Toronto Area. My preferred fields are Engineering (Electrical & Software), Data Analytics or IT, but I am open to all exciting roles.  
 
 On a more casual note, I like reading (non-fiction), watching soccer, and traveling. I like to call myself a *beta tester* because I like to dive in to challenges.
