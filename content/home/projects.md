@@ -25,21 +25,21 @@ subtitle = "(so far)"
      name = "All"
      tag = "*"
 
+  [[content.filter_button]]
+    name = "Renewable Energy"
+    tag = "Renewable Energy"
+
+  [[content.filter_button]]
+     name = "Data Analytics"
+     tag = "Data Analytics"
+
    [[content.filter_button]]
      name = "Digital Logic"
      tag = "Digital Logic"
 
    [[content.filter_button]]
-     name = "Renewable Energy"
-     tag = "Renewable Energy"
-
-   [[content.filter_button]]
      name = "Hardware Design"
      tag = "Hardware Design"
-
-   [[content.filter_button]]
-    name = "Data Analytics"
-    tag = "Data Analytics"
 
     [[content.filter_button]]
       name = "Software"
