@@ -22,7 +22,7 @@ bio: I love tinkering hardware and automating hardware and software. Frank Lloyd
 
 interests:
 - Linux – I currently run a home-lab with over 15 docker containers and two domains served over Cloudflare CDNs to host the on-prem services.
-- Hardware – I am into the IoT world –– I run my on-prem Home Assistant home automation solution. I also researched into the technical implementation of LoRaWAN a few years ago and I found it super exciting for IoT applications!
+- Hardware – I am into the IoT world; I run my on-prem Home Assistant home automation solution. I have also completed some academic research into LoRaWAN and I found it super exciting for IoT applications!
 
 education:
   courses:
