@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Higgs Boson Challenge"
-summary: "Kaggle Higgs Boson challenge done as project for the Machine Learning course at EPFL."
-authors: []
-tags: ["Machine Learning"]
+title: "Solar Energy Harvester For a Water Meter"
+summary: "Sponsored by Xylem and completed as my Senior Design Project. Designed a custom PCB that resulted in a 73% smaller enclosure and $500K savings for 5M units, while exceeding most original requirements set by the company by at least 100%."
+authors: [sid]
+tags: ["Renewable Energy"]
 categories: []
 date: 2019-12-02T22:50:08+01:00
 
@@ -27,8 +27,8 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/dedeswim/ml_project_1"
-url_pdf: "https://github.com/dedeswim/ml_project_1/blob/master/report.pdf"
+url_code: ""
+url_pdf: "/files/xylem-project.pdf"
 url_slides: ""
 url_video: ""
 
