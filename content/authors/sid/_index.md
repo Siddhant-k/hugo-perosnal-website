@@ -21,14 +21,14 @@ organizations:
 bio: I love tinkering hardware and automating hardware and software. Frank Lloyd Wright once said, “If automation keeps up, man will atrophy all his limbs but the push-button finger” –– I envision an automated & integrated future, where machines and tech blend *seamlessly* into our daily lives.
 
 interests:
-- Linux – I currently run a home-lab with over 15 docker containers with two domains served over Cloudflare CDNs.
-- Hardware – I am into the IoT world –– researched about LoRaWAN a few years ago and it is exciting!
+- Linux – I currently run a home-lab with over 15 docker containers and two domains served over Cloudflare CDNs to host the on-prem services.
+- Hardware – I am into the IoT world –– I have multiple ESP2366 devices along-with other devices running on my on-prem Home Assistant solution. I also researched into the technical implementation of LoRaWAN a few years ago and I found it super exciting for IoT applications!
 
 education:
   courses:
   - course: B.Sc in Electrical Engineering  
     institution: University at Buffalo, The State University of New York 🇺🇸
-    year: 2016-2020
+    year: 2020
 
 
 # Social/Academic Networking
@@ -67,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-[Hello there](https://knowyourmeme.com/memes/hello-there)! I am **Sid**, an **Electrical Engineering B.Sc.** graduate from [**University at Buffalo**](https://www.seas.buffalo.edu) in New York, with a minor in **Mathematics**. I have since moved to [Toronto, Ontario 🇨🇦](https://www.toronto.ca) (It's a beautiful city!). I expect to get my [Engineer-in-Training](https://www.peo.on.ca/engineering-intern-program) license from [Professional Engineers Ontario](https://www.peo.on.ca) by October 2020.
+[Hello there](https://knowyourmeme.com/memes/hello-there)! I am **Sid**, an **Electrical Engineering B.Sc.** graduate from [**University at Buffalo**](https://engineering.buffalo.edu) in New York, with a minor in **Mathematics**. I have since moved to [Toronto, Ontario 🇨🇦](https://www.toronto.ca) (It's a beautiful city!). I expect to get my [Engineer-in-Training](https://www.peo.on.ca/engineering-intern-program) license from [Professional Engineers Ontario](https://www.peo.on.ca) by October 2020.
 
 I am currently looking for tech jobs in the Greater Toronto Area 🇨🇦. My preferred fields are Engineering (Electrical & Software), Data Analytics or IT, but I am open to all exciting tech roles.  
 
