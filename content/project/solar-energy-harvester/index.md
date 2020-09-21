@@ -29,7 +29,7 @@ image:
 
 url_code: ""
 url_pdf: "/files/xylem-project.pdf"
-url_slides: ""
+url_slides: "/files/xylem-project.pptx"
 url_video: ""
 
 # Slides (optional).
