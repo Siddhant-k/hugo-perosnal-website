@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-02-15"
   date_end = ""
-  description = "The Engineer’s Ring in the United States is a stainless steel ring, worn on the fifth finger of the working hand by engineers who have accepted the Obligation of an Engineer in a Ring Ceremony."
+  description = "The Engineer’s Ring in the United States is a stainless steel ring, worn on the fifth finger of the working hand by engineers who have accepted the Obligation of an Engineer in a Ring Ceremony. Canadian 🇨🇦equivalent of [The Iron Ring](https://ironring.ca)"
 
 [[item]]
   organization = "University at Buffalo, The State University of New York 🇺🇸"
