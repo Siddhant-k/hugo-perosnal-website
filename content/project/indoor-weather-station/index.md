@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Indoor Weather Station"
-summary: "This was my first project before foraying into the world of home automation. Started with a DHT22 wired up to a flashed ESP8266 board, which then connected to a node.js server, running on a local Raspberry, and avaiable to Siri and Alexa. Upgraded later to use BME280 sensor (with the same ESP8266 board) and paired with Home Assistant.
+summary: "This was my first project before foraying into the world of home automation. Started with a DHT22 wired up to a flashed ESP8266 board, which then connected to a node.js server, running on a local Raspberry, and avaiable to Siri and Alexa. Upgraded later to use BME280 sensor (with the same ESP8266 board) and paired with Home Assistant."
 authors: [sid]
 tags: ["Hardware Design"]
 categories: []
