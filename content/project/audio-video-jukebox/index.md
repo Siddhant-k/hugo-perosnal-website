@@ -4,7 +4,7 @@
 title: "Audio Video Jukebox (in VHDL)"
 summary: "Implemented a Jukebox in VHDL on the Zybo Z7 board. It plays three songs: *Twinkle-Twinkle Little Star, Jingle Bells, We Wish You a Merry Christmas and a Happy New Year!* It also includes pause and top functionality for audio and video, three different user-choosable speeds for audio and video content, a *DJ Mode* to mix and pick up songs from where left last, and three dynamic visuals that go with each song. The visuals are synced with the audio. Also included a regular pause screen as well a retro flashing pause screen!"
 authors: [sid]
-tags: ["Hardware Design, Digital Logic"]
+tags: ["Hardware Design", "Digital Logic"]
 categories: []
 date: 2019-12-02T22:50:08+01:00
 
