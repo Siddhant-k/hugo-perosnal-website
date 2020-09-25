@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Proposing LoRaWAN backbone for a Future Smart-Grid"
-summary: "Presented using LoRaWAN and the potential of it in a tightly integrated smart-grid. "
+summary: "Presented using LoRaWAN and the potential of it in a tightly integrated smart-grid."
 authors: [sid]
 tags: ["Hardware Design"]
 categories: []
@@ -29,7 +29,7 @@ image:
 
 url_code: ""
 url_pdf: "/files/lorawan-project.pdf"
-url_slides: ""/files/lorawan-project.pptx"
+url_slides: "/files/lorawan-project.pptx"
 url_video: ""
 
 # Slides (optional).
