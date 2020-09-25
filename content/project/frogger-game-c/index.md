@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Subspace Attack Reproduction"
-summary: "Attempt to reproduce the results obtained in the NeurIPS 2019 paper [Subspace Attack: Exploiting Promising Subspaces for Query-Efficient Black-box Attacks](https://papers.nips.cc/paper/8638-subspace-attack-exploiting-promising-subspaces-for-query-efficient-black-box-attacks)"
-authors: []
-tags: ["Machine Learning"]
+title: "Frogger Game in C"
+summary: "In this project, I implemented the classic Frogger arcade game using C on a LandTiger LPC1768 board. The game is displayed on the GLCD display and is controlled using the joystick on the board, as well as keyboard input through the UART."
+authors: [sid]
+tags: ["Software"]
 categories: []
-date: 2019-12-02T22:55:24+01:00
+date: 2019-12-02T22:50:08+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "/publication/subspace-attack-reproduction"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -21,14 +21,14 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: OpenReview
-  url: "https://openreview.net/forum?id=3Jxp81KAS3"
-  icon_pack: fab
-  icon:
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
 
-url_code: "https://github.com/epfl-ml-reproducers/subspace-attack-reproduction"
-url_pdf: "https://github.com/epfl-ml-reproducers/subspace-attack-reproduction/blob/master/neurips_report.pdf"
+url_code: "https://github.com/Siddhant-k/frogger-game-in-c/blob/master/FroggerGame.c"
+url_pdf: "/files/frogger-project.pdf"
 url_slides: ""
 url_video: ""
 
