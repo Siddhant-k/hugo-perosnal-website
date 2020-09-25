@@ -28,8 +28,8 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "/files/xylem-project.pdf"
-url_slides: "/files/xylem-project.pptx"
+url_pdf: ""
+url_slides: ""
 url_video: ""
 
 # Slides (optional).
