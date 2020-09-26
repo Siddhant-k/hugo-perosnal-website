@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Proposing LoRaWAN backbone for a Future Smart-Grid"
-summary: "Presented using LoRaWAN and the potential of it in a tightly integrated smart-grid."
+summary: "Presented about using LoRaWAN and the potential of it in a tightly integrated future smart-grid."
 authors: [sid]
-tags: ["Hardware Design"]
+tags: ["Renewable Energy"]
 categories: []
 date: 2019-12-02T22:50:08+01:00
 
