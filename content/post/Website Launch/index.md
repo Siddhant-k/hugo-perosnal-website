@@ -10,8 +10,8 @@ tags:
 categories:
 - Article
 - Blog
-date: 2020-09-16T12:48:58+00:00
-lastmod: 2020-09-16T12:48:58+00:00
+date: 2020-09-26T12:48:58+00:00
+lastmod: 2020-09-26T12:48:58+00:00
 featured: false
 image:
   caption: ''
@@ -20,7 +20,7 @@ image:
 projects: []
 
 ---
-**September 16, 2020**
+**September 26, 2020**
 
 I originally set up my website almost a year ago using a free template I obtained from [HTML5 Up](https://html5up.net "HTML5 Up") and I tweaked it quite substantially to suit my needs. It was also my first time buying a new domain and hosting it .
 
