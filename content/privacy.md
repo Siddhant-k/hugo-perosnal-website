@@ -1,6 +1,7 @@
 ---
 title: Privacy Policy
 date: 2020-09-29T23:00:00+00:00
+draft: false
 share: false
 commentable: false
 editable: false
