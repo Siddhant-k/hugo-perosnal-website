@@ -9,11 +9,10 @@ header:
   image: ''
 
 ---
-**Privacy Policy**
 
 ## Personal Information
 
-I collect absolutely nothing. Any data you enter on my website (even on the contact form) is not viewable by anyone other than yourself until you submit it. Although your contact info will only stay in my email, I can destroy it upon request. 
+I collect absolutely nothing. Any data you enter on my website (even on the contact form) is not viewable by anyone other than yourself until you submit it. Although your contact info will only stay in my email, I can destroy it upon request.
 
 ## Analytics
 
