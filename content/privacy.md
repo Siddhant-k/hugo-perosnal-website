@@ -18,9 +18,9 @@ I collect absolutely nothing. Any data you enter on my website (even on the cont
 
 ## Analytics
 
-I used to use Google Analytics (because it was free and easy to setup!), but I have since #degoogled. Google Analytics drops cookies on your machine that profiles you and follows you around the internet –– as a privacy focused person myself, that was not acceptable to me.
+I used to use Google Analytics (because it was free and easy to setup!), but I have since #degoogled. Google Analytics drops cookies on your machine. Along-with other tracking methods, Google builds a profile about you monetizes it – as a privacy focused person myself, that was not acceptable to me.
 
-I now use [GoatCounter](https://www.goatcounter.com) (open source, cloud instance) and [Ackee](https://github.com/electerious/Ackee) (open source, on-prem in Docker) to get basic analytics about the visitors of my website. These do not identify you in any way and _respects your privacy_.
+I now use [GoatCounter](https://www.goatcounter.com) (open source, cloud instance) and [Ackee](https://github.com/electerious/Ackee) (open source, on-prem in Docker) to get basic analytics about the visitors of my website. These do not identify you in any way and _respect your privacy_.
 
 ## Get in touch
 
