@@ -1,19 +1,20 @@
 ---
 title: Privacy Policy
-date: 2020-09-29T23:00:00+00:00
+date: "2020-09-28T00:00:00+01:00"
 draft: false
 share: false
 commentable: false
 editable: false
-header:
-  caption: ''
-  image: ''
 
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: ""
+  image: ""
 ---
 
 ## Personal Information
 
-I collect absolutely nothing. Any data you enter on my website (even on the contact form) is not viewable by anyone other than yourself until you submit it. Although your contact info will only stay in my email, I can destroy it upon request.
+I collect absolutely nothing. Any data you enter on my website (even on the contact form) is not viewable by anyone other than yourself until you submit it. Although your contact info will only stay in my email, I can delete it upon request.
 
 ## Analytics
 
