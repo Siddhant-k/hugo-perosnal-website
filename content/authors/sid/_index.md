@@ -27,7 +27,7 @@ interests:
 education:
   courses:
   - course: B.Sc in Electrical Engineering  
-    institution: University at Buffalo, The State University of New York 🇺🇸, Grade: 3.83/4.00
+    institution: University at Buffalo, The State University of New York 🇺🇸, Grade: 3.83 out of 4.00
     year: 2020
 
 
