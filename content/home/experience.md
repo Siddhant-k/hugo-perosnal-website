@@ -6,6 +6,16 @@ subtitle = "(looking for more)"
 title = "Experience"
 weight = 30
 widget = "experience"
+
+[[experience]]
+company = "Acculogic"
+company_url = "https://acculogic.com"
+date_end = "2021-05-15T04:45:21+00:00"
+date_start = "2020-12-01T05:00:00+00:00"
+description = "Acculogic is a company that provides "Test Engineering" solutions to customers to minizmize failures and manufactuers the world's only flying probe testers with joystick-like functionality. Clients include many Fortune 500 companies as well as top US Defence companies.
+location = "Toronto, ON"
+title = "Electrical Application Engineer"
+
 [[experience]]
 company = "Rich Products"
 company_url = "https://richs.com"
