@@ -71,12 +71,9 @@ user_groups:
 
 ## ABOUT ME
 
-I currently work at **Acculogic** as an Electrical Application and Support Engineer. Acculogic manufactures flying probe testers and develops testing applications for companies. Clients I work with include top US Defence companies along-with many Fortune 500 companies.
+I currently work at **Acculogic** as an Electrical Application and Support Engineer. Acculogic manufactures flying probe testers and develops testing applications for companies. Clients I work with include top US Defence companies along-with many other Fortune 500 companies.
 
-I also interned at a global food company, **Rich Products**, where I was part of the **Optimization** team, and worked on **extracting savings within the production and the transportation network** using ETL tools.
-
-Next, I also interned at **University at Buffalo Information Technology** where I was part of a team that **developed a fully customizable media room experience** with a pre-installed Crestron processor. **I led Linux programming, Raspberry Pi, Identification and Amazon Web Services (AWS)** piece of the project.
-
-Finally, I worked at **University at Buffalo** separately for over 3 years as **Senior IT Supervisor** where **I independently managed the SQL dB and the application front-end to over 300 users, developed Excel macros to eliminate most repetitive tasks**, managed scripting & advanced functions of over 20 Google Sheets for employee management and record-keeping, and created & managed weekly work schedules of over 125 employees. **I also developed a new data analytics platform to analyze over 18 million print jobs per year and achieved 100% accuracy.**
+Previously, I have interned at **Rich Products**, a global food company, where I was part of the **Optimization** team, and worked on **extracting savings within the production and the transportation network** using ETL tools. I also interned at **University at Buffalo Information Technology** where I was part of a team that **developed a fully customizable smart Crestron experience**. I led Linux programming, Raspberry Pi, Identification and Amazon Web Services (AWS) piece of the project.
+Other than that, I have I have independently managed the SQL dB and the application front-end to over 300 users, developed Excel macros to eliminate most repetitive tasks, managed scripting & advanced functions of over 20 Google Sheets for employee management and record-keeping and developed a new data analytics platform to analyze over 18 million print jobs per year and achieved 100% accuracy.
 
 On a more casual note, I like reading (non-fiction), watching soccer, and traveling. I like to call myself a *beta tester* because I like to dive in to challenges.
