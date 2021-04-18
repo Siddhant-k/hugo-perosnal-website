@@ -7,14 +7,6 @@ title = "Experience"
 weight = 30
 widget = "experience"
 [[experience]]
-company = "Anaya Enterprises"
-company_url = "https://anayaenterprises.ca"
-date_end = ""
-date_start = "2020-12-01T05:00:00+00:00"
-description = "Anaya Enterprises provides OEM aftermarket Gears, Castings and also provides custom manufacturing. I am currently helping them set-up a sustainable plan and model with a new channel partner. The goal is to provide variety of products ready to ship within 24 hours, instead of waiting 12-14 weeks that takes to fulfil manufacturing orders."
-location = "Toronto, ON 🇨🇦"
-title = "Engineering Consultant"
-[[experience]]
 company = "Acculogic"
 company_url = "https://acculogic.com"
 date_end = ""
