@@ -11,9 +11,7 @@ company = "Acculogic"
 company_url = "https://acculogic.com"
 date_end = ""
 date_start = "2020-12-01T05:00:00+00:00"
-description = "Acculogic is a company that provides *Test Engineering* solutions to customers to minimize failures and manufactures the world's only flying probe testers with joystick-like functionality. Clients include many Fortune 500 companies as well as top US Defence, Aerospace and Automotive companies.\n
-*test\n
-*test2"
+description = "Acculogic is a company that provides *Test Engineering* solutions to customers to minimize failures and manufactures the world's only flying probe testers with joystick-like functionality. Clients include many Fortune 500 companies as well as top US Defence, Aerospace and Automotive companies.\n*test\n"
 location = "Toronto, ON 🇨🇦"
 title = "Application and Support Engineer"
 [[experience]]
