@@ -67,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-[Hello there](https://knowyourmeme.com/memes/hello-there)! I am **Sid**, an **Electrical Engineering B.Sc.** graduate from [**University at Buffalo**](https://www.seas.buffalo.edu) in New York, with a minor in **Mathematics**. I have since moved to [Toronto, Ontario 🇨🇦](https://www.toronto.ca) (It's a beautiful city!). I expect to get my [Engineer-in-Training](https://www.peo.on.ca/engineering-intern-program) license from [Professional Engineers Ontario](https://www.peo.on.ca) by January 2021.
+[Hello there](https://knowyourmeme.com/memes/hello-there)! I am **Sid**, an **Electrical Engineering B.Sc.** graduate from [**University at Buffalo**](https://www.seas.buffalo.edu) in New York, with a minor in **Mathematics**. I have since moved to [Toronto, Ontario 🇨🇦](https://www.toronto.ca) (It's a beautiful city!). I expect to get my [Engineer-in-Training](https://www.peo.on.ca/engineering-intern-program) license from [Professional Engineers Ontario](https://www.peo.on.ca) by August 2021.
 
 ## ABOUT ME
 
